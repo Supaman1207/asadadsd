@@ -1,3 +1,4 @@
+Gantulga Bayasgalan (바이사) Computer Science 
 * Client
   * The most famous and demanding is IOS and Android
   * My choose is IOS
